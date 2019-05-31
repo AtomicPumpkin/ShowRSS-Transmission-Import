@@ -4,4 +4,4 @@ Simple python script to automatially add new magnet links based off your showRSS
 **Requires**
 * Python 3
 * feedpaser (pip3 install feedparser)
-* request (pip3 install requests)
+* requests (pip3 install requests)
