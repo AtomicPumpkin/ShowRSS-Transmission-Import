@@ -19,7 +19,7 @@ debugLogging = True
 
 # Transmission RPC Details
 rpcHost = ''                    # IP or hostname of your transmission server
-rpcPort = 22974                 # Standard RPC port = 22974
+rpcPort = 9091                  # Standard RPC port = 9091
 rpcUser = ''                    # Your transmission user
 rpcPass = ''                    # Your transmission password
 rpcPath = '/transmission/rpc'   # Path to RPC, should be /transmission/rpc
